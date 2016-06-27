@@ -2,13 +2,13 @@
 
 ##Exercice 1 :
 
-Créer un menu déroulant avec trois éléments (Pierre, Feuille, Ciseaux). Ajouter un bouton « Shifumi ! ». Lorsque l'on clique sur « Shifumi ! », choisir un élément au hasard (Pierre, Feuille ou Ciseaux). Le comparer à l'élément choisi par le joueur pour voir qui a gagné entre l'humain et la machine.
+Créer une liste avec trois éléments (Pierre, Feuille, Ciseaux). Ajouter un bouton « Shifumi ! ». Lorsque l'on clique sur « Shifumi ! », choisir un élément au hasard (Pierre, Feuille ou Ciseaux). Le comparer à l'élément choisi par le joueur pour voir qui a gagné entre l'humain et la machine.
 
 Bonus : Ajouter un compteur de victoires et de défaites et afficher le pourcentage de victoire contre l'ordinateur.
 
 ##Exercice 2 :
 
-Demander à l'aide d'un formulaire le salire d'une personne, son genre et son nombre d'enfants.
+Demander à l'aide d'un formulaire le salaire d'une personne, son genre et son nombre d'enfants.
 
 Calculer le salaire en décomptant les frais suivants:
 
@@ -32,4 +32,4 @@ Verifier que l'adresse mail est bien une adresse mail, vérifier que le numéro 
 Créer un formulaire demandant le nom, le prénom, la date de naissance, le lieu de naissance, l'emploi et la société.
 Créer un bouton "Générer" permettant de créer une courte phrase de présentation.
 
-Exemple : Si les données saisies sont : "Jérôme OTT, 5/06/1990, Margny-lès-Compiègne, Formateur, Novei", la phrase de présentation sera : "Jérôme OTT, né le 5/06/1990 à Margny-lès-Compiègne, actuellement Formateur à Novei".
+Exemple : Si les données saisies sont : "Jérôme OTT, 5/06/1990, Margny-lès-Compiègne, Formateur, Novei", la phrase de présentation sera : "Jérôme OTT, né le 5/06/1990 à Margny-lès-Compiègne, actuellement Formateur à Novei
