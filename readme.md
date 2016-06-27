@@ -26,3 +26,10 @@ Il est possible de recevoir des réductions sur les charges sous certaines condi
 
 Créer un formulaire qui demande le nom, le prénom, l'adresse mail et le numéro de téléphone de l'utilisateur.
 Verifier que l'adresse mail est bien une adresse mail, vérifier que le numéro de téléphone ne comporte que des chiffres, et que le nom et le prénom ne contiennent que des lettres ou des tirets.
+
+##Exercice 4 :
+
+Créer un formulaire demandant le nom, le prénom, la date de naissance, le lieu de naissance, l'emploi et la société.
+Créer un bouton "Générer" permettant de créer une courte phrase de présentation.
+
+Exemple : Si les données saisies sont : "Jérôme OTT, 5/06/1990, Margny-lès-Compiègne, Formateur, Novei", la phrase de présentation sera : "Jérôme OTT, né le 5/06/1990 à Margny-lès-Compiègne, actuellement Formateur à Novei".
