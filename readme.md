@@ -16,7 +16,7 @@ Calculer le salaire en décomptant les frais suivants:
 - Assurance : 7%;
 - Cotisations : 5%;
 
-Il est possible de recevoir des réductions sur les charges sous certaines conditions :
+Il est possible de recevoir des réductions sur les frais totaux sous certaines conditions :
 
 - Si l'employé est une femme, elle reçoit 2% de réduction.
 - Si l'employé a 3 enfants à charge, il reçoit 1% de réduction.
